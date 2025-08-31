@@ -1,6 +1,6 @@
 MIT License
 
-https://github.com/ktsu-dev/RoundTripStringJsonConverter
+https://github.com/ktsu-dev/Ecosystem
 
 Copyright (c) 2023-2025 ktsu-dev
 
