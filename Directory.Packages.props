@@ -1,0 +1,54 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageVersion Include="ktsu.Abstractions" Version="1.0.8" />
+    <PackageVersion Include="ktsu.AppDataStorage" Version="1.15.8" />
+    <PackageVersion Include="ktsu.CaseConverter" Version="1.3.3" />
+    <PackageVersion Include="ktsu.CodeBlocker" Version="1.1.6" />
+    <PackageVersion Include="ktsu.CompressionProviders.Gzip" Version="1.0.1" />
+    <PackageVersion Include="ktsu.Containers" Version="1.0.5" />
+    <PackageVersion Include="ktsu.CredentialCache" Version="1.2.3" />
+    <PackageVersion Include="ktsu.DeepClone" Version="2.0.4" />
+    <PackageVersion Include="ktsu.DelegateTransform" Version="1.1.3" />
+    <PackageVersion Include="ktsu.EncryptionProviders.Aes" Version="1.0.1" />
+    <PackageVersion Include="ktsu.Extensions" Version="1.5.7" />
+    <PackageVersion Include="ktsu.FileSystemProvider" Version="1.0.1" />
+    <PackageVersion Include="ktsu.FileSystemProviders.Native" Version="1.0.1" />
+    <PackageVersion Include="ktsu.Frontmatter" Version="1.2.0" />
+    <PackageVersion Include="ktsu.FuzzySearch" Version="1.2.2" />
+    <PackageVersion Include="ktsu.HashProviders.FNV1a_32" Version="1.0.1" />
+    <PackageVersion Include="ktsu.HashProviders.FNV1a_64" Version="1.0.1" />
+    <PackageVersion Include="ktsu.HashProviders.FNV1_32" Version="1.0.1" />
+    <PackageVersion Include="ktsu.HashProviders.FNV1_64" Version="1.0.1" />
+    <PackageVersion Include="ktsu.HashProviders.MD5" Version="1.0.1" />
+    <PackageVersion Include="ktsu.HashProviders.MD5HashProvider" Version="1.0.0" />
+    <PackageVersion Include="ktsu.HashProviders.SHA1" Version="1.0.1" />
+    <PackageVersion Include="ktsu.HashProviders.SHA256" Version="1.0.1" />
+    <PackageVersion Include="ktsu.HashProviders.SHA384" Version="1.0.1" />
+    <PackageVersion Include="ktsu.HashProviders.SHA512" Version="1.0.1" />
+    <PackageVersion Include="ktsu.IntervalAction" Version="1.3.3" />
+    <PackageVersion Include="ktsu.Invoker" Version="1.1.1" />
+    <PackageVersion Include="ktsu.ObfuscationProviders.Base64" Version="1.0.1" />
+    <PackageVersion Include="ktsu.PersistenceProvider" Version="1.0.1" />
+    <PackageVersion Include="ktsu.PreciseNumber" Version="1.7.1" />
+    <PackageVersion Include="ktsu.RoundTripStringJsonConverter" Version="1.0.3" />
+    <PackageVersion Include="ktsu.RunCommand" Version="1.3.1" />
+    <PackageVersion Include="ktsu.ScopedAction" Version="1.1.5" />
+    <PackageVersion Include="ktsu.Semantics.Paths" Version="1.0.21" />
+    <PackageVersion Include="ktsu.Semantics.Quantities" Version="1.0.21" />
+    <PackageVersion Include="ktsu.Semantics.Strings" Version="1.0.21" />
+    <PackageVersion Include="ktsu.SerializationProvider" Version="1.0.2" />
+    <PackageVersion Include="ktsu.SerializationProviders.NewtonsoftJson" Version="1.0.1" />
+    <PackageVersion Include="ktsu.SerializationProviders.SystemTextJson" Version="1.0.1" />
+    <PackageVersion Include="ktsu.SignificantNumber" Version="1.4.2" />
+    <PackageVersion Include="ktsu.SingleAppInstance" Version="1.2.6" />
+    <PackageVersion Include="ktsu.Sorting" Version="1.0.1" />
+    <PackageVersion Include="ktsu.TextFilter" Version="1.5.4" />
+    <PackageVersion Include="ktsu.ThemeProvider" Version="1.0.8" />
+    <PackageVersion Include="ktsu.UniversalSerializer" Version="1.0.4" />
+  </ItemGroup>
+</Project>
