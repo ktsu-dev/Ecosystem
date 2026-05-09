@@ -1,0 +1,1 @@
+ecosystem;ktsu;dotnet;csharp;monorepo;configuration;editorconfig
